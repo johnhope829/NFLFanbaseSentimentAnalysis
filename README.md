@@ -72,5 +72,3 @@ Figures for this project can be found in the `figures` directory of this reposit
 [3]	“Geographic Levels,” United States Census Bureau. Oct. 8, 2021. [Online], Available: https://census.gov. [Accessed Sept. 14, 2022].
 
 [4]	“Choosing the Correct Statistical Test In SAS, STATA, SPSS and R,” UCLA Advanced Research Computing. [Online], Available: https://stats.oarc.ucla.edu. [Accessed Sept 14, 2022].
-
-Files documenting the previous 2 milestones of this project can be found in the `milestones` directory of this repository in `M1Hypothesis.pdf` ([src](milestones/MI1Hypothesis.pdf)) and `MI2EstablishDataAndAnalysisPlan.pdf` ([src](milestones/MI2EstablishDataAndAnalysisPlan.pdf)).
